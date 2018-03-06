@@ -13,7 +13,7 @@ function divide(a,b) {
 function inc(n) {
   return n+= n;
 }
-function inc(n) {
+function dec(n) {
   return n-= n;
 }
 function makeInt(n) {
